@@ -1,0 +1,109 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "user": "Mehmet",
+      "title": "React MVC Pattern(Mimari)",
+      "text": "MVC Mimari ile nasıl bileşenleri yöntirim??",
+      "date": "2023-09-11T19:13:21.364Z"
+    },
+    {
+      "id": "2",
+      "user": "Şilan",
+      "title": "React MVVM Paterni",
+      "text": "Bu nedir???",
+      "date": "2023-09-11T19:13:21.364Z"
+    },
+    {
+      "id": "3",
+      "date": "2023-09-11T19:13:21.364Z",
+      "title": "React123",
+      "text": "Bunu nasıl çözeriz???",
+      "user": "İbrahim"
+    },
+    {
+      "user": "Zilan",
+      "title": "React456",
+      "text": "Bunu nasıl çözeriz???",
+      "id": "23dd4c26-bb65-4295-9009-a6f765449598"
+    },
+    {
+      "user": "Merve",
+      "title": "MVC Mantığı",
+      "text": "Nasıl Olucak?__",
+      "id": "d1d07fdd-de15-4b80-9e75-3aa06d5ac601"
+    },
+    {
+      "user": "Rojin",
+      "title": "Typescript Proje",
+      "text": "merhaba.......",
+      "id": "9e838770-9b71-4cb7-9cfa-32cb06d974a6"
+    },
+    {
+      "user": "Gurbet",
+      "title": "Modem ",
+      "text": "Modem sorunu yaşıyorum",
+      "id": "57bf686e-8057-4184-ae01-06b4a76185ab"
+    },
+    {
+      "id": "f63cf026-fb1a-4225-b426-c539273bd8bd",
+      "user": "hjjvku",
+      "title": "ögkv",
+      "text": "mn ıhn m"
+    },
+    {
+      "id": "ade35d19-1211-4ab1-a82c-b7e4af166a17",
+      "user": "ahmet",
+      "title": "modem",
+      "text": "modem sorunu yaşıyorum "
+    },
+    {
+      "id": "20a33c6a-3d25-4968-b694-dcc9f9f0b550",
+      "user": "ahmet",
+      "title": "modem",
+      "text": "modem sorunu yaşıyorum "
+    },
+    {
+      "id": "9690227a-d090-4297-a74e-a81a74aeac47",
+      "user": "ahmet",
+      "title": "modem",
+      "text": "modem sorunu yaşıyorum "
+    },
+    {
+      "id": "987b27e0-e340-450b-a5f4-40f2ed30cd9a",
+      "user": "ahmet",
+      "title": "modem",
+      "text": "modem sorunu yaşıyorum "
+    },
+    {
+      "id": "58e30861-26bb-4dc0-9dcc-ff6fef87960b",
+      "user": "ahmet",
+      "title": "modem",
+      "text": "modem sorunu yaşıyorum "
+    },
+    {
+      "id": "0d21d5f0-c2cd-4739-b0a1-f585ef5ca67a",
+      "user": "ahmet",
+      "title": "modem",
+      "text": "modem sorunu yaşıyorum "
+    },
+    {
+      "id": "e4226f3b-1d4e-4f81-be8a-a4610dd6a81a",
+      "user": "ahmet",
+      "title": "modem",
+      "text": "modem sorunu yaşıyorum "
+    },
+    {
+      "id": "c368ab95-0593-4ae2-b859-a2f62374135f",
+      "user": "ahmet",
+      "title": "modem",
+      "text": "modem sorunu yaşıyorum "
+    },
+    {
+      "id": "c5fec047-91c2-4707-bbcc-d345aa291a65",
+      "user": "hakan ",
+      "title": "modem",
+      "text": "modem sorunu"
+    }
+  ]
+}
