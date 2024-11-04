@@ -13,9 +13,4 @@
 - tailwind
 - react-rootur-dom   
 
-# MVC-Forum
-# Forum-MVC
-# Forum-mvc
-# Forum-mvc
-# Forum-mvc
-# Forum-mvc
+
